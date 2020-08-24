@@ -1,6 +1,6 @@
-baseurl = "http://cicl.stanford.edu/" 
+baseurl = "https://teamlzh-cup.com"
 title = " Fault Dynamics and Architecture"
-copyright = "&copy; 2020 Tobias Gerstenberg"
+copyright = "&copy; © 2020 Zonghu Liao and Causality in Cognition Lab"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

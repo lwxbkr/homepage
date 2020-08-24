@@ -1,5 +1,5 @@
 baseurl = "http://cicl.stanford.edu/" 
-title = "Causality in Cognition Lab"
+title = " Fault Dynamics and Architecture"
 copyright = "&copy; 2020 Tobias Gerstenberg"
 theme = "academic"
 enableEmoji = true

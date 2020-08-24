@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "Causality in Cognition Lab"
+title = "Fault Dynamics and Architecture"
 # Order that this section will appear in.
 weight = 1
 
@@ -12,7 +12,7 @@ weight = 1
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/dominos.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/earth_1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -24,4 +24,4 @@ weight = 1
 +++
 
 <br>
-The Causality in Cognition Lab at Stanford University studies the role of causality in our understanding of the world, and of each other. 
+The lab of Fault Dynamics and Architecture at China University of Petroleum Beijing carries out the faulting experiments and 3D fault-architecture characterizations for the understanding of hydrocarbon plays and earthquakes.

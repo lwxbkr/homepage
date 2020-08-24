@@ -13,11 +13,14 @@ weight = 2
 
 +++
 
-Some of the questions that guide our research: 
+The golden rules of structural analysis:
 
-1. How does the mind learn to represent the causal structure of the world?
-2. What is the relationship between causal thinking and counterfactual simulation? 
-3. How do we hold others responsible for the outcomes of their actions? 
+First, identify an unresolved structural problem that deserves your efforts (it is not easy!).
+Second, (the bad news) structures are not as simple as they may look: they are three-dimensional, non-linear and time-dependent.
+Third, (the good news) recognize the critical features and measure them accurately: these observations will provide a key to the solution.
+Fourth, modeling must be linked to the critical observations (no use for theory without data!).
 
-In our research, we formalize people’s mental models as computational models that yield quantitative predictions about a wide range of situations. To test these predictions, we use a combination of large-scale online experiments, interactive experiments in the lab, and eye-tracking experiments.
-
+Deformation processes associated with faults in the upper crust:
+            Fracturing of reservoir rocks and fault activation/seal
+            Fault rupturing and fault damage zones
+            Earthquakes, seismic hazard and landslides

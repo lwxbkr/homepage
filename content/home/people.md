@@ -13,7 +13,7 @@ subtitle = "... who are doing the work"
 # We are also looking for [**undergraduate research assistants**](news/undergraduate_assistant/) to work with us in the Fall quarter. If you are interested in applying to be an RA take a look at the link above.
 
 # Order that this section will appear in.
-weight = 3
+weight = 2
 
 [[member]]
 	id = "Tobias Gerstenberg"

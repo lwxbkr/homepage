@@ -19,7 +19,7 @@ Second, (the bad news) structures are not as simple as they may look: they are t
 Third, (the good news) recognize the critical features and measure them accurately: these observations will provide a key to the solution.  
 Fourth, modeling must be linked to the critical observations (no use for theory without data!).
 
-Deformation processes associated with faults in the upper crust:
-            Fracturing of reservoir rocks and fault activation/seal
-            Fault rupturing and fault damage zones
-            Earthquakes, seismic hazard and landslides
+Deformation processes associated with faults in the upper crust:  
+            Fracturing of reservoir rocks and fault activation/seal  
+            Fault rupturing and fault damage zones  
+            Earthquakes, seismic hazard and landslides  

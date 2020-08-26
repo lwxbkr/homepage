@@ -229,14 +229,14 @@ defaultContentLanguageInSubdir = false
 	name = "Publications"
 	url = "#publications_selected"
 	weight = 4
-[[menu.main]]
-	name = "Projects"
-	url = "#projects"
-	weight = 5
-[[menu.main]]
-	name = "Classes"
-	url = "#classes"
-	weight = 6
+#[[menu.main]]
+#	name = "Projects"
+#	url = "#projects"
+#	weight = 5
+#[[menu.main]]
+#	name = "Classes"
+#	url = "#classes"
+#	weight = 6
 [[menu.main]]
 	name = "Collaborators"
 	url = "#collaborators"

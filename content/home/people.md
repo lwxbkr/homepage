@@ -26,8 +26,7 @@ weight = 3
 	position = "Graduate student"
 	image = "huaxiang.jpg"
 	email = "1124810902@qq.com"
-	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.
-In my free time, i like to watch moives and listen to music."
+	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.In my free time, i like to watch moives and listen to music."
 	
 [[member]]
 	id = "Tobias Gerstenberg"

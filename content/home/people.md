@@ -20,6 +20,7 @@ weight = 3
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
 	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
+
 [[member]]
 	id = "Tobias Gerstenberg"
 	position = "Principal investigator"

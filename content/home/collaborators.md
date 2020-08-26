@@ -8,8 +8,7 @@ title = "Collaborators"
 subtitle = "Some of the people we work with"
 
 # Order that this section will appear in.
-weight = 5
-
+weight = 7
 [[collaborator]]
 	id = "Josh Tenenbaum"
 	image = "josh_tenenbaum.jpg"

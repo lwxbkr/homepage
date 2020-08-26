@@ -22,6 +22,14 @@ weight = 3
 	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
 
 [[member]]
+	id = "Xiang Hua"
+	position = "Graduate student"
+	image = "huaxiang.jpg"
+	email = "1124810902@qq.com"
+	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.
+In my free time, i like to watch moives and listen to music."
+	
+[[member]]
 	id = "Tobias Gerstenberg"
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"

@@ -14,7 +14,12 @@ subtitle = "... who are doing the work"
 
 # Order that this section will appear in.
 weight = 3
-
+[[member]]
+	id = "Zonghu Liao"
+	position = "Associate Professor"
+	image = "liaozonghu.png"
+	email = "zonghuliao@163.com"
+	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
 [[member]]
 	id = "Tobias Gerstenberg"
 	position = "Principal investigator"

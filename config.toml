@@ -231,11 +231,11 @@ defaultContentLanguageInSubdir = false
 	weight = 4
 [[menu.main]]
 	name = "Projects"
-	url = "#Projects"
+	url = "#projects"
 	weight = 5
 [[menu.main]]
 	name = "Classes"
-	url = "#Classes"
+	url = "#classes"
 	weight = 6
 [[menu.main]]
 	name = "Collaborators"

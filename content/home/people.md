@@ -36,6 +36,13 @@ weight = 3
 	description = "I graduated from Xinjiang University with a major in Exploration Technology and Engineering in July 2019.Since September 2019, I have been studying with a postgraduate majoring in Geological eEgineering at China University of Petroleum (Beijing).In July 2020, I went to the Research Institute of Petroleum Exploration and Development-Northwest(NWGL), Petrochina for an internship."
 
 [[member]]
+	id = "Lin Zhang"
+	position = "Graduate student"
+	image = "zhanglin.JPG"
+	email = "zhanglin@student.cup.edu.cn"
+	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China);2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)"
+	
+[[member]]
 	id = "Xiang Hua"
 	position = "Graduate student"
 	image = "huaxiang.jpg"

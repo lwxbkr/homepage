@@ -29,15 +29,11 @@ weight = 3
 	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
 
 [[member]]
-	id = " Shuo Chen"
+	id = "Shuo Chen"
 	position = "Graduate student"
 	image = "chenshuo.jpg"
 	email = "shuochen@student.cup.edu.cn"
-	description = "Education Background: September 2015 to July 2019, XinJiang University,  Exploration Technology and Engineering(B.E); September 2019 to Now, China University of Petroleum, Beijing, Geological Engineering
-Awards: Autonomous Region People's Government Inspirational Scholarship, 2017; Inamori Kyocera Western Development Scholarship, 2018
-Certificate:  The Second-Level Constructor Certificate of Water Conservancy and Hydropower, The CET-4 Certificate, The Second-Level Computer Certificate, etc.
-Internship: I have participated in geological cognition internship and production internship, etc.,  In July 2019, I went to the Research Institute of Petroleum Exploration and Development-Northwest(NWGL), Petrochina for an internship.  I got lot of experience from these interships. 
-In my study life, I have developed a habit of running , which is not only a physical exercise, but also a training of my self-control and willpower."
+	description = "I graduated from Xinjiang University with a major in Exploration Technology and Engineering in July 2019.Since September 2019, I have been studying with a postgraduate majoring in Geological eEgineering at China University of Petroleum (Beijing).In July 2020, I went to the Research Institute of Petroleum Exploration and Development-Northwest(NWGL), Petrochina for an internship."
 
 [[member]]
 	id = "Xiang Hua"
@@ -45,8 +41,23 @@ In my study life, I have developed a habit of running , which is not only a phys
 	image = "huaxiang.jpg"
 	email = "1124810902@qq.com"
 	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.In my free time, i like to watch moives and listen to music."
-	
+
 [[member]]
+	id = "Baotong Chen"
+	position = "Graduate student"
+	image = "chenbaotong.jpg"
+	email = "245230068@qq.com"
+	description = "Graduate student of China University of Petroleum (Beijing) is studying.My motto is to work hard and to be an honest man.I have been looking for opportunities to improve myself.And I like to listen to music when I'm alone."	
+
+[[member]]
+	id = "Wenxin Liu"
+	position = "Graduate student"
+	image = "liuwenxin.jpg"
+	email = "lwxbkr3344@163.com"
+	github= "lwxbkr"
+	description = "I'm interested in computer technology and fitness. If you have any questions about this site build, please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
+	
+#[[member]]
 	id = "Tobias Gerstenberg"
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"
@@ -58,7 +69,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
-[[member]]
+#[[member]]
 	id = "Zach Davis"
 	position = "Postdoctoral researcher"
 	image = "zach_davis.jpg"
@@ -68,7 +79,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	website = "https://zach-davis.github.io/"
 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
 
-[[member]]
+#[[member]]
 	id = "Ari Beller"
 	position = "Graduate student"
     image = "ari_beller.jpg"
@@ -78,7 +89,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	website = "http://cicl.stanford.edu/member/ari_beller"
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
-[[member]]
+#[[member]]
 	id = "David Rose"
 	position = "Graduate student"
 	image = "david_rose.jpg"
@@ -87,7 +98,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	website = "https://philpeople.org/profiles/david-rose"
 	description = "My research is mainly focused on how a teleological view of causation features in our view of composition, persistence and essence.  Here is a picture of me thinking about the essence of pizza and wondering whether nacho pizza is a kind of pizza."
 
-[[member]]
+#[[member]]
 	id = "Sarah Wu"
 	position = "Graduate student"
 	image = "sarah_wu.jpg"
@@ -95,7 +106,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	github = "sarahawu"
 	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
-[[member]]
+#[[member]]
 	id = "Disha Dasgupta"
 	position = "Research assistant"
 	image = "disha_dasgupta.jpg"
@@ -107,7 +118,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	#website = "disha_dasgupta"
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
-[[member]]
+#[[member]]
 	id = "Alan Brown"
 	position = "Research assistant"
 	image = "alan_brown.jpg"
@@ -116,7 +127,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "alan_brown.pdf"
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
-[[member]]
+#[[member]]
 	id = "Tina Hua"
 	position = "Research assistant"
 	image = "tina_hua.jpg"
@@ -125,7 +136,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "tina_hua.pdf"
 	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
 
-[[member]]
+#[[member]]
 	id = "Bryce Linford"
 	position = "Research assistant"
 	image = "bryce_linford.jpg"
@@ -134,7 +145,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "bryce_linford.pdf"
 	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
 
-[[member]]
+#[[member]]
 	id = "Yingchen Xu"
 	position = "Research assistant"
 	image = "yingchen_xu.jpg"
@@ -142,7 +153,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	github = "yukichul"
 	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
 
-[[member]]
+#[[member]]
 	id = "Joseph Outa"
 	position = "Research assistant"
 	image = "joseph_outa.jpg"
@@ -152,7 +163,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "joseph_outa.pdf"
 	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
 
-[[member]]
+#[[member]]
 	id = "Elisa Kreiss"
 	position = "Lab affiliate"
 	image = "elisa_kreiss.jpg"
@@ -163,7 +174,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	#website = "http://elisakreiss.com/"
 	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
 
-[[member]]
+#[[member]]
 	id = "Cai Guo"
 	position = "Lab affiliate"
 	image = "cai_guo.jpg"
@@ -175,7 +186,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "cai_guo.pdf"
 	description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
 
-[[member]]
+#[[member]]
 	id = "Erin Bennett"
 	position = "Lab affiliate"
 	image = "erin_bennett.jpg"
@@ -187,7 +198,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	#cv = ""
 	description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
-[[member]]
+#[[member]]
 	id = "Andrew Nam"
 	position = "Lab affiliate"
 	image = "andrew_nam.jpg"
@@ -199,7 +210,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
 
-[[member]]
+#[[member]]
 	id = "Max Kanwal"
 	position = "Lab affiliate"
 	image = "max_kanwal.jpg"
@@ -207,7 +218,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
 	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
 
-[[member]]
+#[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab affiliate"
 	image = "xi_jia_zhou.jpg"
@@ -217,7 +228,7 @@ In my study life, I have developed a habit of running , which is not only a phys
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
-[[member]]
+#[[member]]
 	id = "Liang Zhou"
 	position = "Lab affiliate"
 	image = "liang_zhou.jpg"

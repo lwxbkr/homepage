@@ -22,6 +22,13 @@ weight = 3
 	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
 
 [[member]]
+	id = "Shunjie Deng"
+	position = "Graduate student"
+	image = "邓顺杰.png"
+	email = "SDeng@student.cup.edu.cn"
+	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
+
+[[member]]
 	id = "Xiang Hua"
 	position = "Graduate student"
 	image = "huaxiang.jpg"

@@ -52,7 +52,7 @@ weight = 3
 [[member]]
 	id = "Wenxin Liu"
 	position = "Graduate student"
-	image = "liuwenxin.jpg"
+	image = "liuwenxin1.png"
 	email = "lwxbkr3344@163.com"
 	github= "lwxbkr"
 	description = "I'm interested in computer technology and fitness. If you have any questions about this site build, please contact me via email. If you need to see the source code of this page, you can visit my GitHub."

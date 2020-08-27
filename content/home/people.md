@@ -24,9 +24,20 @@ weight = 3
 [[member]]
 	id = "Shunjie Deng"
 	position = "Graduate student"
-	image = "邓顺杰.png"
+	image = "dengshunjie.jpg"
 	email = "SDeng@student.cup.edu.cn"
 	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
+
+[[member]]
+	id = " Shuo Chen"
+	position = "Graduate student"
+	image = "chenshuo.jpg"
+	email = "shuochen@student.cup.edu.cn"
+	description = "Education Background: September 2015 to July 2019, XinJiang University,  Exploration Technology and Engineering(B.E); September 2019 to Now, China University of Petroleum, Beijing, Geological Engineering
+Awards: Autonomous Region People's Government Inspirational Scholarship, 2017; Inamori Kyocera Western Development Scholarship, 2018
+Certificate:  The Second-Level Constructor Certificate of Water Conservancy and Hydropower, The CET-4 Certificate, The Second-Level Computer Certificate, etc.
+Internship: I have participated in geological cognition internship and production internship, etc.,  In July 2019, I went to the Research Institute of Petroleum Exploration and Development-Northwest(NWGL), Petrochina for an internship.  I got lot of experience from these interships. 
+In my study life, I have developed a habit of running , which is not only a physical exercise, but also a training of my self-control and willpower."
 
 [[member]]
 	id = "Xiang Hua"

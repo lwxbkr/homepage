@@ -58,16 +58,16 @@ weight = 3
 	description = "I'm interested in computer technology and fitness. If you have any questions about this site build, please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
 	
 #[[member]]
-	id = "Tobias Gerstenberg"
-	position = "Principal investigator"
-	image = "tobias_gerstenberg.jpg"
-	email = "gerstenberg@stanford.edu"
-	twitter = "tobigerstenberg"
-	github = "tobiasgerstenberg"
-	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
-	cv = "tobias_gerstenberg.pdf"
-	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
-	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
+#    id = "Tobias Gerstenberg"
+#	position = "Principal investigator"
+#	image = "tobias_gerstenberg.jpg"
+#	email = "gerstenberg@stanford.edu"
+#	twitter = "tobigerstenberg"
+#	github = "tobiasgerstenberg"
+#	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
+#	cv = "tobias_gerstenberg.pdf"
+#	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
+#	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 #[[member]]
 	id = "Zach Davis"
@@ -229,13 +229,13 @@ weight = 3
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
 #[[member]]
-	id = "Liang Zhou"
-	position = "Lab affiliate"
-	image = "liang_zhou.jpg"
-	email = "liang.zhou.18@ucl.ac.uk"
-	github = "lzil"
-	website = "https://lzil.github.io"
-	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
+#	id = "Liang Zhou"
+#	position = "Lab affiliate"
+#	image = "liang_zhou.jpg"
+#	email = "liang.zhou.18@ucl.ac.uk"
+#	github = "lzil"
+#	website = "https://lzil.github.io"
+#	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
 
 

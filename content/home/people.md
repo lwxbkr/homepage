@@ -31,9 +31,9 @@ weight = 3
 [[member]]
 	id = "Shuo Chen"
 	position = "Graduate student"
-	image = "chenshuo.jpg"
+	image = "chenshuo1.png"
 	email = "shuochen@student.cup.edu.cn"
-	description = "I graduated from Xinjiang University with a major in Exploration Technology and Engineering in July 2019.Since September 2019, I have been studying with a postgraduate majoring in Geological eEgineering at China University of Petroleum (Beijing).In July 2020, I went to the Research Institute of Petroleum Exploration and Development-Northwest(NWGL), Petrochina for an internship."
+	description = "Since September 2019, I have been studying with a postgraduate majoring in Geological Engineering at China University of Petroleum (Beijing).I am interested in the interpretation of seismic data, especially the seismic attributes and seismic facies analysis. In my spare time, I like to play badminton with friends."
 
 [[member]]
 	id = "Lin Zhang"
@@ -52,7 +52,7 @@ weight = 3
 [[member]]
 	id = "Baotong Chen"
 	position = "Graduate student"
-	image = "chenbaotong.jpg"
+	image = "chenbaotong1.png"
 	email = "245230068@qq.com"
 	description = "Graduate student of China University of Petroleum (Beijing) is studying.My motto is to work hard and to be an honest man.I have been looking for opportunities to improve myself.And I like to listen to music when I'm alone."	
 

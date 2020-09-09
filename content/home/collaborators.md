@@ -17,6 +17,34 @@ weight = 7
 	show = true
 
 [[collaborator]]
+	id = "Kurt J Marfurt"
+	image = "Dr.Kurt_J.Marfurt.png"
+	position = "University of Oklahoma"
+	link = "http://mcee.ou.edu/aaspi/faculty/marfurt.html"
+	show = true	
+
+[[collaborator]]
+	id = "Toshi Shimamoto"
+	image = ""
+	position = ""
+	link = ""
+	show = true
+
+[[collaborator]]
+	id = "Huayao Zou"
+	image = "zouhuayao.png"
+	position = "China University of petroleum, Beijing"
+	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50643.htm"
+	show = true
+
+[[collaborator]]
+	id = "Amos Nur"
+	image = "amos_nur.png"
+	position = "Stanford University"
+	link = "https://profiles.stanford.edu/amos-nur"
+	show = true	
+		
+[[collaborator]]
 	id = "Josh Tenenbaum"
 	image = "josh_tenenbaum.jpg"
 	position = "MIT"
@@ -280,7 +308,7 @@ weight = 7
 	#image = "roi_zultan.jpg"
 	#position = "Ben Gurion University"
 	#link = "http://www.bgu.ac.il/~zultan/"
-	#show = true
+	#show = false
 
 [[collaborator]]
 	id = "Sam Gershman"
@@ -308,7 +336,7 @@ weight = 7
 	image = "tomer_ullman.jpg"
 	position = "Harvard"
 	link = "http://www.mit.edu/~tomeru/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Yaakov Kareev"
@@ -329,7 +357,7 @@ weight = 7
 	image = "todd_gureckis.jpg"
 	position = "NYU"
 	link = "https://as.nyu.edu/faculty/todd-gureckis.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Liane Young"

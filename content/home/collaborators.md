@@ -28,7 +28,7 @@ weight = 7
 	image = ""
 	position = ""
 	link = ""
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Huayao Zou"
@@ -43,14 +43,56 @@ weight = 7
 	position = "Stanford University"
 	link = "https://profiles.stanford.edu/amos-nur"
 	show = true	
-		
+	
 [[collaborator]]
-	id = "Josh Tenenbaum"
-	image = "josh_tenenbaum.jpg"
-	position = "MIT"
-	link = "http://web.mit.edu/cocosci/josh.html"
-	show = false
+	id = "Brett Carpenter"
+	image = "brett.M.Carpenter.png"
+	position = "University of Oklahoma"
+	link = "https://www.ou.edu/mcee/geosciences/people/faculty/brett_carpenter"
+	show = true	
 
+[[collaborator]]
+	id = "Lianbo Zeng"
+	image = "zenglianbo.png"
+	position = "China University of petroleum, Beijing"
+	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50653.htm"
+	show = true	
+			
+[[collaborator]]
+	id = "Xiaofeng Chen"
+	image = "chenx.png"
+	position = "TEXAS A&M UNIVERSITY"
+	link = "https://geoweb.tamu.edu/people/profiles/research-staff/chenxiaofeng.html"
+	show = true
+
+[[collaborator]]
+	id = "Randy Keller"
+	image = "Randy_Keller.png"
+	position = "University of Oklahoma"
+	link = "https://www.ou.edu/mcee/geosciences/people/faculty/g_randy_keller"
+	show = true
+	
+[[collaborator]]
+	id = "Yang Hong"
+	image = "yanghong.png"
+	position = "University of Oklahoma"
+	link = "https://www.ou.edu/coe/centers/water/people/faculty"
+	show = true
+
+[[collaborator]]
+	id = "Katie Keranen"
+	image = "katie_keranen.png"
+	position = "University of Oklahoma"
+	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
+	show = true
+
+[[collaborator]]
+	id = "Katie Keranen"
+	image = "katie_keranen.png"
+	position = "College of Agriculture and Life Sciences"
+	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
+	show = true
+				
 [[collaborator]]
 	id = "Noah Goodman"
 	image = "noah_goodman.jpg"

@@ -92,7 +92,42 @@ weight = 7
 	position = "College of Agriculture and Life Sciences"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
 	show = true
-				
+
+[[collaborator]]
+	id = "Xinru Wu"
+	image = "wuxinru.png"
+	position = "University of Oklahoma"
+	link = "https://www.ou.edu/mcee/mpge/people/wu"
+	show = true
+	
+[[collaborator]]
+	id = "Yuval Boneh"
+	image = "yuval_boneh.png"
+	position = "Ben-Gurion University of the Negev"
+	link = "https://in.bgu.ac.il/en/Pages/Yuval-Boneh.aspx"
+	show = true
+
+[[collaborator]]
+	id = "Liyun Fu"
+	image = "fuliyun.png"
+	position = "China University of Petroleum(East China)"
+	link = "http://geori.upc.edu.cn/2018/0526/c10380a151967/page.htm"
+	show = true
+
+[[collaborator]]
+	id = "Yongsheng Zou"
+	image = "fuliyun.png"
+	position = "China University of Petroleum(East China)"
+	link = "http://www.eq-igl.ac.cn/contents/10/30801.html"
+	show = false
+
+[[collaborator]]
+	id = "Jefferson Chang"
+	image = "jefferson_c.png"
+	position = "Volcano Science Center"
+	link = "https://www.usgs.gov/staff-profiles/jefferson-c-chang?qt-staff_profile_science_products=3#"
+	show = true
+									
 [[collaborator]]
 	id = "Noah Goodman"
 	image = "noah_goodman.jpg"

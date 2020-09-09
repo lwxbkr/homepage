@@ -84,7 +84,7 @@ weight = 7
 	image = "katie_keranen.png"
 	position = "University of Oklahoma"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Katie Keranen"

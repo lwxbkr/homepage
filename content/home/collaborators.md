@@ -88,7 +88,7 @@ weight = 7
 
 [[collaborator]]
 	id = "Katie Keranen"
-	image = "katie_keranen.png"
+	image = "katie_keranen2.png"
 	position = "Stanford University"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
 	show = true

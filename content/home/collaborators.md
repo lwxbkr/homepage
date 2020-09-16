@@ -89,7 +89,7 @@ weight = 7
 [[collaborator]]
 	id = "Katie Keranen"
 	image = "katie_keranen.png"
-	position = "College of Agriculture and Life Sciences"
+	position = "Stanford University"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
 	show = true
 
@@ -110,14 +110,14 @@ weight = 7
 [[collaborator]]
 	id = "Liyun Fu"
 	image = "fuliyun.png"
-	position = "CUP, Beijing,East China"
+	position = "CUP,East China"
 	link = "http://geori.upc.edu.cn/2018/0526/c10380a151967/page.htm"
 	show = true
 
 [[collaborator]]
 	id = "Yongsheng Zou"
 	image = "fuliyun.png"
-	position = "CUP, Beijing,East China"
+	position = "CUP,East China"
 	link = "http://www.eq-igl.ac.cn/contents/10/30801.html"
 	show = false
 

@@ -81,7 +81,7 @@ weight = 7
 
 [[collaborator]]
 	id = "Katie Keranen"
-	image = "katie_keranen.png"
+	image = "katie_keranen2.png"
 	position = "University of Oklahoma"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
 	show = false
@@ -102,7 +102,7 @@ weight = 7
 	
 [[collaborator]]
 	id = "Yuval Boneh"
-	image = "yuval_boneh.png"
+	image = "yuval_boneh2.png"
 	position = "Ben-Gurion University of the Negev"
 	link = "https://in.bgu.ac.il/en/Pages/Yuval-Boneh.aspx"
 	show = true
@@ -123,7 +123,7 @@ weight = 7
 
 [[collaborator]]
 	id = "Jefferson Chang"
-	image = "jefferson_c.png"
+	image = "jefferson_c2.png"
 	position = "Volcano Science Center"
 	link = "https://www.usgs.gov/staff-profiles/jefferson-c-chang?qt-staff_profile_science_products=3#"
 	show = true

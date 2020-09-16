@@ -4,7 +4,7 @@ widget = "collaborators"
 active = true
 date = "2017-11-18"
 
-title = "Collaborators"
+title = "Collaborators and adviser"
 subtitle = "Some of the people we work with"
 
 # Order that this section will appear in.
@@ -39,7 +39,7 @@ weight = 7
 
 [[collaborator]]
 	id = "Amos Nur"
-	image = "amos_nur.png"
+	image = "amos_nur2.png"
 	position = "Stanford University"
 	link = "https://profiles.stanford.edu/amos-nur"
 	show = true	

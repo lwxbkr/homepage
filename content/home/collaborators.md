@@ -33,7 +33,7 @@ weight = 7
 [[collaborator]]
 	id = "Huayao Zou"
 	image = "zouhuayao.png"
-	position = "China University of petroleum, Beijing"
+	position = "CUP, Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50643.htm"
 	show = true
 
@@ -54,7 +54,7 @@ weight = 7
 [[collaborator]]
 	id = "Lianbo Zeng"
 	image = "zenglianbo.png"
-	position = "China University of petroleum, Beijing"
+	position = "CUP, Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50653.htm"
 	show = true	
 			
@@ -110,14 +110,14 @@ weight = 7
 [[collaborator]]
 	id = "Liyun Fu"
 	image = "fuliyun.png"
-	position = "China University of Petroleum(East China)"
+	position = "CUP, Beijing,East China"
 	link = "http://geori.upc.edu.cn/2018/0526/c10380a151967/page.htm"
 	show = true
 
 [[collaborator]]
 	id = "Yongsheng Zou"
 	image = "fuliyun.png"
-	position = "China University of Petroleum(East China)"
+	position = "CUP, Beijing,East China"
 	link = "http://www.eq-igl.ac.cn/contents/10/30801.html"
 	show = false
 

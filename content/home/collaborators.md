@@ -4,7 +4,7 @@ widget = "collaborators"
 active = true
 date = "2017-11-18"
 
-title = "Collaborators and adviser"
+title = "Collaborators & Adviser"
 subtitle = "Some of the people we work with"
 
 # Order that this section will appear in.

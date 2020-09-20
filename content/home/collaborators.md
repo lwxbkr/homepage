@@ -10,7 +10,7 @@ subtitle = "Some of the people we work with"
 # Order that this section will appear in.
 weight = 7
 [[collaborator]]
-	id = "Zeev reches"
+	id = "Zeev Reches"
 	image = "zeev_reches.png"
 	position = "University of Oklahoma"
 	link = "http://earthquakes.ou.edu/reches/"
@@ -33,7 +33,7 @@ weight = 7
 [[collaborator]]
 	id = "Huayao Zou"
 	image = "zouhuayao.png"
-	position = "CUP, Beijing"
+	position = "CUP Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50643.htm"
 	show = true
 
@@ -54,14 +54,14 @@ weight = 7
 [[collaborator]]
 	id = "Lianbo Zeng"
 	image = "zenglianbo.png"
-	position = "CUP, Beijing"
+	position = "CUP Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50653.htm"
 	show = true	
 			
 [[collaborator]]
 	id = "Xiaofeng Chen"
 	image = "chenx.png"
-	position = "TEXAS A&M UNIVERSITY"
+	position = "Texas A&M University"
 	link = "https://geoweb.tamu.edu/people/profiles/research-staff/chenxiaofeng.html"
 	show = true
 
@@ -110,21 +110,21 @@ weight = 7
 [[collaborator]]
 	id = "Liyun Fu"
 	image = "fuliyun.png"
-	position = "CUP,East China"
+	position = "CUP East China"
 	link = "http://geori.upc.edu.cn/2018/0526/c10380a151967/page.htm"
 	show = true
 
 [[collaborator]]
 	id = "Yongsheng Zou"
 	image = "fuliyun.png"
-	position = "CUP,East China"
+	position = "CUP East China"
 	link = "http://www.eq-igl.ac.cn/contents/10/30801.html"
 	show = false
 
 [[collaborator]]
 	id = "Jefferson Chang"
 	image = "jefferson_c2.png"
-	position = "Volcano Science Center"
+	position = "USGS Volcano Science Center"
 	link = "https://www.usgs.gov/staff-profiles/jefferson-c-chang?qt-staff_profile_science_products=3#"
 	show = true
 									

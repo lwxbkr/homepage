@@ -11,7 +11,15 @@
     
 	<atom:link href="http://cicl.stanford.edu/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity</title>
+      <link>https://teamlzh-cup.com/publication/liao2020integrity/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2020omission/</guid>
+      <description></description>
+
+    </item>
     <item>
       <title>A counterfactual simulation model of causation by omission</title>
       <link>http://cicl.stanford.edu/publication/gerstenberg2020omission/</link>

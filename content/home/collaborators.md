@@ -10,7 +10,7 @@ subtitle = "Some of the people we work with"
 # Order that this section will appear in.
 weight = 7
 [[collaborator]]
-	id = "Zeev Reches"
+	id = "Ze'ev Reches"
 	image = "zeev_reches.png"
 	position = "University of Oklahoma"
 	link = "http://earthquakes.ou.edu/reches/"
@@ -45,7 +45,7 @@ weight = 7
 	show = true	
 	
 [[collaborator]]
-	id = "Brett Carpenter"
+	id = "Brett'M Carpenter"
 	image = "brett.M.Carpenter.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/geosciences/people/faculty/brett_carpenter"

@@ -21,7 +21,7 @@ The golden rules of structural analysis(from [Ze'ev Reches](http://earthquakes.o
   <font color=DodgerBlue >**Third**</font>: (the good news) recognize the critical features and measure them accurately: these observations will provide a key to the solution.  
   <font color=DodgerBlue >**Fourth**</font>: modeling must be linked to the critical observations (no use for theory without data!).
     
-Our research interests include
+Our research interests include  
 Deformation processes associated with faults in the upper crust:  
             · Fracturing of reservoir rocks and fault activation/seal  
             · Fault rupturing and fault damage zones  

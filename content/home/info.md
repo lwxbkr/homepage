@@ -10,11 +10,11 @@ subtitle = "... and how we do it"
 
 # Order that this section will appear in.
 #添加 我们的研究兴趣 包括的方面
-
+# [Ze'ev Reches](http://earthquakes.ou.edu/reches/)
 weight = 2
 
 +++
-The golden rules of structural analysis(from [<font face="黑体">Ze'ev Reches<font>](http://earthquakes.ou.edu/reches/)):
+The golden rules of structural analysis(from<font face="微软雅黑">Ze'ev Reches</font>):
 
   <font color=DodgerBlue >**First**</font>: identify an unresolved structural problem that deserves your efforts (it is not easy!).  
   <font color=DodgerBlue >**Second**</font>: (the bad news) structures are not as simple as they may look: they are three-dimensional, non-linear and time-dependent.  

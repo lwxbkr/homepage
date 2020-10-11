@@ -243,10 +243,14 @@ defaultContentLanguageInSubdir = false
 	weight = 7
 
 [[menu.main]]
-	name = "graduate"
+	name = "Graduate"
 	url = "#formergraduate"
 	weight = 10
 
+[[menu.main]]
+	name = "Classes"
+	url = "#classes"
+	weight = 11
 #[[menu.main]]
 	#name = "Contact"
 	#url = "#contact"

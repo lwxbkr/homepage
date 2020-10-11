@@ -242,6 +242,11 @@ defaultContentLanguageInSubdir = false
 	url = "#collaborators"
 	weight = 7
 
+[[menu.main]]
+	name = "graduate"
+	url = "#formergraduate"
+	weight = 10
+
 #[[menu.main]]
 	#name = "Contact"
 	#url = "#contact"

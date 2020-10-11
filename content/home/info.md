@@ -14,7 +14,7 @@ subtitle = "... and how we do it"
 weight = 2
 
 +++
-The golden rules of structural analysis(from<font face="微软雅黑">Ze'ev Reches</font>):
+The golden rules of structural analysis(from <font face="fantasy">Ze'ev Reches</font>):
 
   <font color=DodgerBlue >**First**</font>: identify an unresolved structural problem that deserves your efforts (it is not easy!).  
   <font color=DodgerBlue >**Second**</font>: (the bad news) structures are not as simple as they may look: they are three-dimensional, non-linear and time-dependent.  

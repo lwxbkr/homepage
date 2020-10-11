@@ -14,56 +14,7 @@ subtitle = ""
 
 # Order that this section will appear in.
 weight = 11
-#[[member]]
-	id = "Zonghu Liao"
-	position = "Associate Professor"
-	image = "liaozonghu.png"
-	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
 
-#[[member]]
-	id = "Shunjie Deng"
-	position = "Graduate student"
-	image = "dengshunjie.jpg"
-	email = "SDeng@student.cup.edu.cn"
-	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
-
-#[[member]]
-	id = "Shuo Chen"
-	position = "Graduate student"
-	image = "chenshuo1.png"
-	email = "shuochen@student.cup.edu.cn"
-	description = "Since September 2019, I have been studying with a postgraduate majoring in Geological Engineering at China University of Petroleum (Beijing).I am interested in the interpretation of seismic data, especially the seismic attributes and seismic facies analysis. In my spare time, I like to play badminton with friends."
-
-#[[member]]
-	id = "Lin Zhang"
-	position = "Graduate student"
-	image = "zhanglin.JPG"
-	email = "zhanglin@student.cup.edu.cn"
-	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China);2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)"
-	
-#[[member]]
-	id = "Xiang Hua"
-	position = "Graduate student"
-	image = "huaxiang.jpg"
-	email = "1124810902@qq.com"
-	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.In my free time, i like to watch moives and listen to music."
-
-#[[member]]
-	id = "Baotong Chen"
-	position = "Graduate student"
-	image = "chenbaotong1.png"
-	email = "245230068@qq.com"
-	description = "Graduate student of China University of Petroleum (Beijing) is studying.My motto is to work hard and to be an honest man.I have been looking for opportunities to improve myself.And I like to listen to music when I'm alone."	
-
-#[[member]]
-	id = "Wenxin Liu"
-	position = "Graduate student"
-	image = "liuwenxin1.png"
-	email = "lwxbkr3344@163.com"
-	github= "lwxbkr"
-	description = "I'm interested in computer technology and fitness. If you have any questions about this site build, please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
-	
 #[[member]]
 #    id = "Tobias Gerstenberg"
 #	position = "Principal investigator"

@@ -14,14 +14,14 @@ weight = 10
 	image = "zeev_reches.png"
 	position = "University of Oklahoma"
 	link = "http://earthquakes.ou.edu/reches/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Kurt J Marfurt"
 	image = "Dr.Kurt_J.Marfurt.png"
 	position = "University of Oklahoma"
 	link = "http://mcee.ou.edu/aaspi/faculty/marfurt.html"
-	show = true	
+	show = false
 
 [[collaborator]]
 	id = "Toshi Shimamoto"
@@ -35,49 +35,49 @@ weight = 10
 	image = "zouhuayao.png"
 	position = "CUP Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50643.htm"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Amos Nur"
 	image = "amos_nur2.png"
 	position = "Stanford University"
 	link = "https://profiles.stanford.edu/amos-nur"
-	show = true	
+	show = false	
 	
 [[collaborator]]
 	id = "Brett'M Carpenter"
 	image = "brett.M.Carpenter.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/geosciences/people/faculty/brett_carpenter"
-	show = true	
+	show = false
 
 [[collaborator]]
 	id = "Lianbo Zeng"
 	image = "zenglianbo.png"
 	position = "CUP Beijing"
 	link = "http://www.cup.edu.cn/geosci/szdw/jiaoshou/50653.htm"
-	show = true	
+	show = false	
 			
 [[collaborator]]
 	id = "Xiaofeng Chen"
 	image = "chenx.png"
 	position = "Texas A&M University"
 	link = "https://geoweb.tamu.edu/people/profiles/research-staff/chenxiaofeng.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Randy Keller"
 	image = "Randy_Keller.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/geosciences/people/faculty/g_randy_keller"
-	show = true
+	show = false
 	
 [[collaborator]]
 	id = "Yang Hong"
 	image = "yanghong.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/coe/centers/water/people/faculty"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Katie Keranen"
@@ -91,28 +91,28 @@ weight = 10
 	image = "katie_keranen2.png"
 	position = "Cornell University"
 	link = "https://www.eas.cornell.edu/faculty-directory/katie-keranen"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Xinru Wu"
 	image = "wuxinru.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/mpge/people/wu"
-	show = true
+	show = false
 	
 [[collaborator]]
 	id = "Yuval Boneh"
 	image = "yuval_boneh2.png"
 	position = "Ben-Gurion University of the Negev"
 	link = "https://in.bgu.ac.il/en/Pages/Yuval-Boneh.aspx"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Liyun Fu"
 	image = "fuliyun.png"
 	position = "CUP East China"
 	link = "http://geori.upc.edu.cn/2018/0526/c10380a151967/page.htm"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Yongsheng Zou"
@@ -126,7 +126,7 @@ weight = 10
 	image = "jefferson_c2.png"
 	position = "USGS Volcano Science Center"
 	link = "https://www.usgs.gov/staff-profiles/jefferson-c-chang?qt-staff_profile_science_products=3#"
-	show = true
+	show = false
 									
 [[collaborator]]
 	id = "Noah Goodman"

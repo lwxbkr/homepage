@@ -4,7 +4,7 @@ widget = "collaborators"
 active = true
 date = "2017-11-18"
 
-title = "Former Graduate"
+title = "Alumni"
 subtitle = "Some of the people who have graduated from our team"
 
 # Order that this section will appear in.

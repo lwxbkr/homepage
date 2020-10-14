@@ -10,12 +10,6 @@ subtitle = "Some of the people who have graduated from our team"
 # Order that this section will appear in.
 weight = 10
 
-[[collaborator]]
-	id = "Ze'ev Reches"
-	image = "zeev_reches.png"
-	position = "University of Oklahoma"
-	link = "http://earthquakes.ou.edu/reches/"
-	show = false
 	
 [[collaborator]]
 	id = "Ze'ev Reches"

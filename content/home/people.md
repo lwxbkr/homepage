@@ -19,8 +19,8 @@ weight = 3
 	position = "Associate Professor"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I live in Beijing near Great Walls."
-
+	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain."
+    website = "https://orcid.org/0000-0001-5954-0376"
 [[member]]
 	id = "Shunjie Deng"
 	position = "Graduate student"

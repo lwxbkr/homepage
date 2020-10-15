@@ -42,7 +42,7 @@ weight = 10
 
 [[collaborator]]
 	id = "Haiyan Jiang"
-	image = "jianghaiyan.jpg"
+	image = "jianghaiyue.jpg"
 	position = "CNPC"
 	link = ""
 	show = true	

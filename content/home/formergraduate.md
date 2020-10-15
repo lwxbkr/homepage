@@ -77,7 +77,7 @@ weight = 10
 
 [[collaborator]]
 	id = "Mingwen Wang"
-	image = "wangmingwen.jpg"
+	image = "wangmingwen.png"
 	position = "University of Chinese Academy of Sciences"
 	link = ""
 	show = true

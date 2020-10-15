@@ -15,7 +15,7 @@ weight = 10
 	id = "Saiyyna Vasileva"
 	image = "Saiyyna Vasileva.jpg"
 	position = "Red Dolphin Consulting Co"
-	link = "http://earthquakes.ou.edu/reches/"
+	link = ""
 	show = true
 	
 [[collaborator]]

@@ -21,7 +21,7 @@ weight = 10
 	
 [[collaborator]]
 	id = "Weilun Chen"
-	image = "weilun.jpg"
+	image = "chenweilun.jpg"
 	position = "CNOCC"
 	link = ""
 	show = true		
@@ -78,7 +78,7 @@ weight = 10
 [[collaborator]]
 	id = "Mingwen Wang"
 	image = "wangmingwen.png"
-	position = "University of Chinese Academy of Sciences"
+	position = "UCAS"
 	link = ""
 	show = true
 

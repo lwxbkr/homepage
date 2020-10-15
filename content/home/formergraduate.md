@@ -8,8 +8,15 @@ title = "Alumni"
 subtitle = "Some of the people who have graduated from our team"
 
 # Order that this section will appear in.
+#Saiyyna Vasileva -Red Dolphin Consulting Co
 weight = 10
 
+[[collaborator]]
+	id = "Saiyyna Vasileva"
+	image = "Saiyyna Vasileva.jpg"
+	position = "Red Dolphin Consulting Co"
+	link = "http://earthquakes.ou.edu/reches/"
+	show = true
 	
 [[collaborator]]
 	id = "Ze'ev Reches"

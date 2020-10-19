@@ -11,83 +11,82 @@ subtitle = "Some of the people who have graduated from our team"
 #Saiyyna Vasileva -Red Dolphin Consulting Co
 weight = 10
 
-	
-[[collaborator]]
-	id = "Saiyyna Vasileva"
-	image = "Saiyyna Vasileva.jpg"
-	position = "Red Dolphin Consulting Co"
-	link = ""
-	show = true
-	
-[[collaborator]]
-	id = "Weilun Chen"
-	image = "chenweilun.jpg"
-	position = "CNOCC"
-	link = ""
-	show = true		
-
-[[collaborator]]
-	id = "Yebin Fan"
-	image = "fanyebin.jpg"
-	position = "山西电力勘测"
-	link = ""
-	show = true
-
-[[collaborator]]
-	id = "Xiaojuan Huang"
-	image = "huangxiaojuan.jpg"
-	position = "CUP Beijing"
-	link = ""
-	show = true
-
-[[collaborator]]
-	id = "Haiyan Jiang"
-	image = "jianghaiyue.jpg"
-	position = "CNPC"
-	link = ""
-	show = true	
-	
 [[collaborator]]
 	id = "Wei Li"
 	image = "liwei.jpg"
 	position = "东方国信"
 	link = ""
 	show = true	
-
+[[collaborator]]
+	id = "Haiyue Jiang"
+	image = "jianghaiyue.jpg"
+	position = "CNPC"
+	link = ""
+	show = true		
 [[collaborator]]
 	id = "Hui Liu"
 	image = "liuhui.jpg"
 	position = "东方国信"
 	link = ""
+	show = true			
+[[collaborator]]
+	id = "Saiyyna Vasileva"
+	image = "Saiyyna Vasileva.jpg"
+	position = "Red Dolphin Consulting Co"
+	link = ""
 	show = true	
-
-[[collaborator]]
-	id = "Lunji Shi"
-	image = "shilunji.jpg"
-	position = "汉云益生"
-	link = ""
-	show = true
-
-[[collaborator]]
-	id = "Minghan Sun"
-	image = "sunminghan.jpg"
-	position = "瑞茂通"
-	link = ""
-	show = true
-
-[[collaborator]]
-	id = "Mingwen Wang"
-	image = "wangmingwen.png"
-	position = "UCAS"
-	link = ""
-	show = true
-
 [[collaborator]]
 	id = "Mengni Wu"
 	image = "wumengni.jpg"
 	position = "招商银行"
 	link = ""
 	show = true
+[[collaborator]]
+	id = "Lunji Shi"
+	image = "shilunji.jpg"
+	position = "汉云益生"
+	link = ""
+	show = true
+[[collaborator]]
+	id = "Mingwen Wang"
+	image = "wangmingwen.png"
+	position = "UCAS"
+	link = ""
+	show = true	
+[[collaborator]]
+	id = "Minghan Sun"
+	image = "sunminghan.jpg"
+	position = "瑞茂通"
+	link = ""
+	show = true	
+[[collaborator]]
+	id = "Yebin Fan"
+	image = "fanyebin.jpg"
+	position = "山西电力勘测"
+	link = ""
+	show = true
+[[collaborator]]
+	id = "Weilun Chen"
+	image = "chenweilun.jpg"
+	position = "CNOCC"
+	link = ""
+	show = true		
+[[collaborator]]
+	id = "Xiaojuan Huang"
+	image = "huangxiaojuan.jpg"
+	position = "CUP Beijing"
+	link = ""
+	show = true
+	
+
+
+
+
+
+
+
+
+
 								
 [[collaborator]]
 	id = "Ze'ev Reches"

@@ -39,7 +39,7 @@ weight = 7
 
 [[collaborator]]
 	id = "Amos Nur"
-	image = "amos_nur2.png"
+	image = "amos_nur3.png"
 	position = "Stanford University"
 	link = "https://profiles.stanford.edu/amos-nur"
 	show = true	

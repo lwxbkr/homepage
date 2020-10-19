@@ -16,7 +16,7 @@ subtitle = "... who are doing the work"
 weight = 3
 [[member]]
 	id = "Zonghu Liao"
-	position = "Associate Professor"
+	position = "Associate Professor,Principal Investigator"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
 	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain." 
@@ -24,7 +24,7 @@ weight = 3
 [[member]]
 	id = "Shunjie Deng"
 	position = "Graduate student"
-	image = "dengshunjie.jpg"
+	image = "dengshunjie2.jpg"
 	email = "SDeng@student.cup.edu.cn"
 	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
 

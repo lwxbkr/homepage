@@ -1,6 +1,6 @@
 baseurl = "https://teamlzh-cup.com"
 title = " Fault Dynamics and Architecture"
-copyright = "&copy; 2020 modified and forked from Causality in Cognition Lab"
+copyright = "&copy; 2020 adapted from Causality in Cognition Lab"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

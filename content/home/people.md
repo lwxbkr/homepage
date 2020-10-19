@@ -19,7 +19,7 @@ weight = 3
 	position = "Associate Professor, Principal Investigator"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain.    <br/><br/>[ORCID](https://orcid.org/0000-0001-5954-0376)" 
+	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain.  <br/>[ORCID](https://orcid.org/0000-0001-5954-0376)" 
     website = "http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm"
 [[member]]
 	id = "Shunjie Deng"

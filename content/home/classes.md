@@ -17,8 +17,14 @@ weight = 11
 
 [[member]]
     id = "[Seismic Interpretation](/classes)"
-    image = ""
+    image = "classes1.png"
     description = "Seismic Interpretation(2020) <br/>Seismic Interpretation(2019) <br/>Seismic Interpretation(2018) <br/>Seismic Interpretation(2017) <br/>"
+[[member]]
+    id = "Structural Geology"
+	image = "classes2.png"
+	description = "Structural Geology(2017) </br>Structural Geology(2016) </br>Structural Geology(2015) </br>"
+#	email = "gerstenberg@stanford.edu"
+#	twitter = "tobigerstenberg"    
 #	position = "Principal investigator"
 #	image = "tobias_gerstenberg.jpg"
 #	email = "gerstenberg@stanford.edu"

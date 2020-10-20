@@ -15,6 +15,20 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 11
 
+[[member]]
+    id = "Tobias Gerstenberg"
+    description = "Seimsic Interpretation(2020) <br/>Seimsic Interpretation(2019) <br/>Seimsic Interpretation(2018) <br/>Seimsic Interpretation(2017) <br/>"
+#	position = "Principal investigator"
+#	image = "tobias_gerstenberg.jpg"
+#	email = "gerstenberg@stanford.edu"
+#   twitter = "tobigerstenberg"
+#	github = "tobiasgerstenberg"
+#	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
+#	cv = "tobias_gerstenberg.pdf"
+#	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
+#	description = "Seimsic Interpretation(2020) </br>"
+
+
 #[[member]]
 #    id = "Tobias Gerstenberg"
 #	position = "Principal investigator"

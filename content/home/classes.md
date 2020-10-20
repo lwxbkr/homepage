@@ -16,8 +16,9 @@ subtitle = ""
 weight = 11
 
 [[member]]
-    id = "[seimsic Interpretation](/classes)"
-    description = "Seimsic Interpretation(2020) <br/>Seimsic Interpretation(2019) <br/>Seimsic Interpretation(2018) <br/>Seimsic Interpretation(2017) <br/>"
+    id = "[Seismic Interpretation](/classes)"
+    image = "classes1.png"
+    description = "Seismic Interpretation(2020) <br/>Seismic Interpretation(2019) <br/>Seismic Interpretation(2018) <br/>Seismic Interpretation(2017) <br/>"
 #	position = "Principal investigator"
 #	image = "tobias_gerstenberg.jpg"
 #	email = "gerstenberg@stanford.edu"

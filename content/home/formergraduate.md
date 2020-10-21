@@ -48,6 +48,12 @@ weight = 10
 	link = ""
 	show = true
 [[collaborator]]
+	id = "Luyao Hu"
+	image = "huluyao.jpg"
+	position = "北京涛峰"
+	link = ""
+	show = true	
+[[collaborator]]
 	id = "Mingwen Wang"
 	image = "wangmingwen.png"
 	position = "UCAS"
@@ -65,6 +71,12 @@ weight = 10
 	position = "山西电力勘测"
 	link = ""
 	show = true
+[[collaborator]]
+	id = "Yun Zhou"
+	image = "zhouyun.jpg"
+	position = "杭州秘猿科技"
+	link = ""
+	show = true	
 [[collaborator]]
 	id = "Weilun Chen"
 	image = "chenweilun.jpg"

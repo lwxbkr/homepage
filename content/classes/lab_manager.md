@@ -22,7 +22,8 @@ preview = true
 +++
 __Seismic Interpretation__:
 
-- 1.Introduction
+- 1.Introduction 
+    - <a href="Lecture 1. Introduction.pdf">Download PDF</a>
 - 2.The seismic experiment
 - 3.Spectral content and limit to vertical resolution
 - 4.Color display and 3D visualization

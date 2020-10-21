@@ -45,7 +45,7 @@ weight = 7
 	show = true	
 	
 [[collaborator]]
-	id = "Brett'M Carpenter"
+	id = "Brett M Carpenter"
 	image = "brett.M.Carpenter.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/geosciences/people/faculty/brett_carpenter"

@@ -14,7 +14,7 @@ active = true
 #weight = 2
 
 +++
-<font color=DodgerBlue >**Seismic Interpretation**</font>  
-* 1.Introduction  
-* 2.The seismic experiment  
-* 3.Spectral content and limit to vertical resolution  
+<font color=DodgerBlue >**Seismic Interpretation**</font>  <br/>
+* 1.Introduction  <br/>
+* 2.The seismic experiment  <br/>
+* 3.Spectral content and limit to vertical resolution  <br/>

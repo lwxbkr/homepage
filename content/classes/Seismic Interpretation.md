@@ -1,7 +1,7 @@
-
++++
 # Info
-#widget = "custom"
-#active = true
+widget = "custom"
+active = true
 #date = "2017-11-18"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -13,7 +13,7 @@
 # [Ze'ev Reches](http://earthquakes.ou.edu/reches/)
 #weight = 2
 
-
++++
 <font color=DodgerBlue >**Seismic Interpretation**</font>  
 * 1.Introduction  
 * 2.The seismic experiment  

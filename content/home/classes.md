@@ -16,7 +16,7 @@ subtitle = ""
 weight = 11
 
 [[member]]
-    id = "[Seismic Interpretation](/classes)"
+    id = "[Seismic Interpretation](/classes/lab_manager)"
     image = "classes1.png"
     description = "Seismic Interpretation(2020) <br/>Seismic Interpretation(2019) <br/>Seismic Interpretation(2018) <br/>Seismic Interpretation(2017) <br/>"
 [[member]]

@@ -1,6 +1,6 @@
 +++
 title = "Classes"
-#date = "2018-04-08"
+date = false
 draft = false
 active = false
 
@@ -25,8 +25,21 @@ __Seismic Interpretation__:
 - 1.Introduction
 - 2.The seismic experiment
 - 3.Spectral content and limit to vertical resolution
-- Order and maintain equipment and supplies.
-- Process study compensation payments and thank you letters to subjects upon completion of trial activities. Assist with post-study activities, as needed.
-- Maintain the lab homepage and lab wiki.
-- Apply formulas and calculations to research data using basic statistical programs. Review and verify accuracy of database information and assist in making necessary corrections according to specific guidelines. 
+- 4.Color display and 3D visualization
+- 5.Complex trace attributes
+- 6.Horizon (pick-up) and formation attributes
+- 7.Coherence
+- 8.Interpretation workflow; Seismic basics (Midterm #1)
+- 9.Volumetric dip and azimuth
+- 10.Curvature and reflector
+- 11-14. Seismic Expression of Tectonics
+- 15.Interpretation structures; Seismic practices (Midterm #2)
+- 16-17. Seismic Expression of Clastics
+- 18-19. Seismic Expression of Carbonate 
+- 20. Attribute illumination of fractures 
+- 21. Carbonate and Clastics; Seismic attributes (Midterm #3)
+- 22.Practice of sediments, Presentation of final projects 
+- 23. Practice of faults, Presentation of final projects
+- 24. Practice of projects, Presentation of final projects
+
 

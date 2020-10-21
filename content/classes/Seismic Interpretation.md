@@ -1,4 +1,4 @@
-+++
+
 # Info
 #widget = "custom"
 #active = true
@@ -13,8 +13,8 @@
 # [Ze'ev Reches](http://earthquakes.ou.edu/reches/)
 #weight = 2
 
-+++
-<font color=DodgerBlue >**Seismic Interpretation**</font>
-* 1.Introduction
-* 2.The seismic experiment
-* 3.Spectral content and limit to vertical resolution
+
+<font color=DodgerBlue >**Seismic Interpretation**</font>  
+* 1.Introduction  
+* 2.The seismic experiment  
+* 3.Spectral content and limit to vertical resolution  

@@ -25,16 +25,25 @@ __Seismic Interpretation__:
 - 1.Introduction 
     - <a href="../Lecture 1. Introduction.pdf">Download PDF</a>
 - 2.The seismic experiment
+    - <a href="../Lecture 2. The seismic experiment.pdf">Download PDF</a>
 - 3.Spectral content and limit to vertical resolution
+    - <a href="../Lecture 3 - Spectral content.pdf">Download PDF</a>
 - 4.Color display and 3D visualization
+    - <a href="../Lecture 4. Color Display and 3D Visualization.pdf">Download PDF</a>
 - 5.Complex trace attributes
+    - <a href="../Lecture 5. Complex trace attributes.pdf">Download PDF</a>
 - 6.Horizon (pick-up) and formation attributes
+    - <a href="../Lecture 6-7. Horizon and formation attributes I,II.pdf">Download PDF</a>
 - 7.Coherence
+    - <a href="../Lecture 7. Coherence_w_voice_over.pdf">Download PDF</a>
 - 8.Interpretation workflow; Seismic basics (Midterm #1)
 - 9.Volumetric dip and azimuth
+    - <a href="../Lecture 9. Volumetric dip and azimuth_w_voice_over2.pdf">Download PDF</a>
 - 10.Curvature and reflector
 - 11-14. Seismic Expression of Tectonics
+    - <a href="../Lecture 11. Curvature, reflector rotation, and reflector convergence.pdf">Download PDF</a>
 - 15.Interpretation structures; Seismic practices (Midterm #2)
+    - <a href="../Lecture 12-15. Attribute expression of tectonic deformation.pdf">Download PDF</a>
 - 16-17. Seismic Expression of Clastics
 - 18-19. Seismic Expression of Carbonate 
 - 20. Attribute illumination of fractures 

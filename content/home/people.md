@@ -20,7 +20,7 @@ weight = 3
 	position = "Associate Professor, Principal Investigator"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain.  <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) <br/> [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VoCYo7IAAAAJ)" 
+	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain.  <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) <br/> E-mail:zonghuliao@163.com" 
 [[member]]
 	id = "Shunjie Deng"
 	position = "Graduate student"
@@ -40,21 +40,21 @@ weight = 3
 	position = "Graduate student"
 	image = "zhanglin.JPG"
 	email = "zhanglin@student.cup.edu.cn"
-	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China);2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)"
+	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China);2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)."
 	
 [[member]]
 	id = "Xiang Hua"
 	position = "Graduate student"
 	image = "huaxiang.jpg"
 	email = "1124810902@qq.com"
-	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future.In my free time, i like to watch moives and listen to music."
+	description = "I am interested in how geologic hazards happen and i hope i can do my best to prevent geologic hazards as many as possible in the future. In my free time, i like to watch moives and listen to music."
 
 [[member]]
 	id = "Baotong Chen"
 	position = "Graduate student"
 	image = "chenbaotong1.png"
 	email = "245230068@qq.com"
-	description = "Graduate student of China University of Petroleum (Beijing) is studying.My motto is to work hard and to be an honest man.I have been looking for opportunities to improve myself.And I like to listen to music when I'm alone."	
+	description = "Graduate student of China University of Petroleum (Beijing). My motto is to work hard and to be an honest man. I have been looking for opportunities to improve myself. And I like to listen to music when I'm alone."	
 
 [[member]]
 	id = "Wenxin Liu"
@@ -62,7 +62,7 @@ weight = 3
 	image = "liuwenxin1.png"
 	email = "lwxbkr3344@163.com"
 	github= "lwxbkr"
-	description = "I'm interested in computer technology and fitness. If you have any questions about this site build, please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
+	description = "I'm interested in programming and fitness. If you have any questions about this site , please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
 	
 #[[member]]
 #    id = "Tobias Gerstenberg"

@@ -238,7 +238,7 @@ defaultContentLanguageInSubdir = false
 #	url = "#classes"
 #	weight = 6
 [[menu.main]]
-	name = "Collaborators & Advisers"
+	name = "Collaborators"
 	url = "#collaborators"
 	weight = 7
 

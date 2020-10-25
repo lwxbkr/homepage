@@ -16,13 +16,13 @@ subtitle = ""
 weight = 11
 
 [[member]]
-    id = "[Seismic Interpretation](/classes/lab_manager)"
+    id = "Seismic Interpretation"
     image = "classes1.png"
-    description = "Seismic Interpretation(2020) <br/>Seismic Interpretation(2019) <br/>Seismic Interpretation(2018) <br/>Seismic Interpretation(2017) <br/>"
+    description = "[Seismic Interpretation(2020 Fall)](/classes/lab_manager) <br/>Seismic Interpretation(2019 Fall) <br/>Seismic Interpretation(2018 Fall) <br/>Seismic Interpretation(2017 Fall) <br/>"
 [[member]]
     id = "Structural Geology"
 	image = "classes2.png"
-	description = "Structural Geology(2017) </br>Structural Geology(2016) </br>Structural Geology(2015) </br>"
+	description = "Structural Geology(2017 Spring) </br>Structural Geology(2016 Spring) </br>Structural Geology(2015 Spring) </br>"
 #	email = "gerstenberg@stanford.edu"
 #	twitter = "tobigerstenberg"    
 #	position = "Principal investigator"

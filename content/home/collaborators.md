@@ -17,7 +17,7 @@ weight = 7
 	show = true
 
 [[collaborator]]
-	id = "Kurt J Marfurt"
+	id = "Kurt J. Marfurt"
 	image = "Dr.Kurt_J.Marfurt.png"
 	position = "University of Oklahoma"
 	link = "http://mcee.ou.edu/aaspi/faculty/marfurt.html"
@@ -45,7 +45,7 @@ weight = 7
 	show = true	
 	
 [[collaborator]]
-	id = "Brett M Carpenter"
+	id = "Brett M. Carpenter"
 	image = "brett.M.Carpenter.png"
 	position = "University of Oklahoma"
 	link = "https://www.ou.edu/mcee/geosciences/people/faculty/brett_carpenter"

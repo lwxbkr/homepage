@@ -32,7 +32,7 @@ weight = 10
 [[collaborator]]
 	id = "Saiyyna Vasileva"
 	image = "Saiyyna Vasileva.jpg"
-	position = "Red Dolphin Consulting Co"
+	position = "Red Dolphin Consulting Co."
 	link = ""
 	show = true	
 [[collaborator]]

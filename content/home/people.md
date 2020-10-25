@@ -20,27 +20,27 @@ weight = 3
 	position = "Associate Professor, Principal Investigator"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain.  <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) <br/> E-mail:zonghuliao@163.com" 
+	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain. <br/> E-mail:zonghuliao@163.com <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) " 
 [[member]]
 	id = "Shunjie Deng"
 	position = "Graduate student"
 	image = "dengshunjie2.jpg"
 	email = "SDeng@student.cup.edu.cn"
-	description = "If you find a path with no obstacles, it probably doesn’t lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
+	description = "If you find a path with no obstacles, it probably does not lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
 
 [[member]]
 	id = "Shuo Chen"
 	position = "Graduate student"
 	image = "chenshuo1.png"
 	email = "shuochen@student.cup.edu.cn"
-	description = "Since September 2019, I have been studying with a postgraduate majoring in Geological Engineering at China University of Petroleum (Beijing).I am interested in the interpretation of seismic data, especially the seismic attributes and seismic facies analysis. In my spare time, I like to play badminton with friends."
+	description = "Since September 2019, I have been studying with a postgraduate majoring in Geological Engineering at China University of Petroleum (Beijing). I am interested in the interpretation of seismic data, especially the seismic attributes and seismic facies analysis. In my spare time, I like to play badminton with friends."
 
 [[member]]
 	id = "Lin Zhang"
 	position = "Graduate student"
 	image = "zhanglin.JPG"
 	email = "zhanglin@student.cup.edu.cn"
-	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China);2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)."
+	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China); 2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)."
 	
 [[member]]
 	id = "Xiang Hua"
@@ -54,7 +54,7 @@ weight = 3
 	position = "Graduate student"
 	image = "chenbaotong1.png"
 	email = "245230068@qq.com"
-	description = "Graduate student of China University of Petroleum (Beijing). My motto is to work hard and to be an honest man. I have been looking for opportunities to improve myself. And I like to listen to music when I'm alone."	
+	description = "Graduate student of China University of Petroleum (Beijing). My motto is to work hard and to be an honest man. I have been looking for opportunities to improve myself. And I like to listen to music when I am alone."	
 
 [[member]]
 	id = "Wenxin Liu"
@@ -62,7 +62,7 @@ weight = 3
 	image = "liuwenxin1.png"
 	email = "lwxbkr3344@163.com"
 	github= "lwxbkr"
-	description = "I'm interested in programming and fitness. If you have any questions about this site , please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
+	description = "I am interested in programming and fitness. If you have any questions about this site , please contact me via email. If you need to see the source code of this page, you can visit my GitHub."
 	
 #[[member]]
 #    id = "Tobias Gerstenberg"

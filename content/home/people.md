@@ -26,7 +26,7 @@ weight = 3
 	position = "Graduate student"
 	image = "dengshunjie2.jpg"
 	email = "SDeng@student.cup.edu.cn"
-	description = "If you find a path with no obstacles, it probably does not lead anywhere. Energy is a cause worth dedicating one's life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
+	description = "If you find a path with no obstacles, it probably does not lead anywhere. In my opinion, energy is a cause worth dedicating my life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
 
 [[member]]
 	id = "Shuo Chen"

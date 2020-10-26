@@ -40,12 +40,17 @@ __Seismic Interpretation__:
 - 9. Volumetric dip and azimuth
     - <a href="../Lecture 9. Volumetric dip and azimuth_w_voice_over2.pdf">Download PDF</a>
 - 10. Curvature and reflector
-- 11-14. Seismic Expression of Tectonics
+- 11. Seismic Expression of Tectonics(Ⅰ)
     - <a href="../Lecture 11. Curvature, reflector rotation, and reflector convergence.pdf">Download PDF</a>
+- 12. Seismic Expression of Tectonics(Ⅱ)
+- 13. Seismic Expression of Tectonics(Ⅲ)   
+- 14. Seismic Expression of Tectonics(Ⅳ)   
 - 15. Interpretation structures; Seismic practices (Midterm #2)
     - <a href="../Lecture 12-15. Attribute expression of tectonic deformation.pdf">Download PDF</a>
-- 16-17. Seismic Expression of Clastics
-- 18-19. Seismic Expression of Carbonate 
+- 16. Seismic Expression of Clastics(Ⅰ)
+- 17. Seismic Expression of Clastics(Ⅱ)
+- 18. Seismic Expression of Carbonate(Ⅰ)
+- 19. Seismic Expression of Carbonate(Ⅱ)
 - 20. Attribute illumination of fractures 
 - 21. Carbonate and Clastics; Seismic attributes (Midterm #3)
 - 22. Practice of sediments, Presentation of final projects 

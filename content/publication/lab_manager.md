@@ -1,13 +1,14 @@
 +++
 title = "Publication"
 #date = "2020-09-01"
+date = false
 draft = false
 active = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+#tags = []
+#categories = []
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -16,9 +17,9 @@ categories = []
 # Set `preview` to `false` to disable the thumbnail in listings.
 #    - <a href="../Lecture 1. Introduction.pdf">Download PDF</a>
 [header]
-image = ""
-caption = ""
-preview = true
+#image = ""
+#caption = ""
+#preview = true
 
 +++
 __Publication List__:

@@ -15,6 +15,9 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 #    - <a href="../Lecture 1. Introduction.pdf">Download PDF</a>
+#- 1. Zonghu Liao, Mengni Wu, Xiaofeng Chen, Huayao Zou (2020). Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity.Marine and Petroleum Geology.
+#- 2. The seismic experiment
+#    - <a href="../Lecture 2. The seismic experiment.pdf">Download PDF</a>
 [header]
 image = ""
 caption = ""
@@ -23,8 +26,9 @@ preview = true
 +++
 __Publication List__:
 
-- 1. Zonghu Liao, Mengni Wu, Xiaofeng Chen, Huayao Zou (2020). Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity.Marine and Petroleum Geology.
-- 2. The seismic experiment
-    - <a href="../Lecture 2. The seismic experiment.pdf">Download PDF</a>
+- 1. Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity.
+    - Zonghu Liao, Mengni Wu, Xiaofeng Chen, Huayao Zou (2020).
+    - Marine and Petroleum Geology.
+
 
 

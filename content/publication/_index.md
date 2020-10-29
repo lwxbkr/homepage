@@ -16,3 +16,7 @@ list_format = 2
 image = ""
 caption = ""
 +++
+__Publication List__:
+
+- 1. Zonghu Liao, Mengni Wu, Xiaofeng Chen, Huayao Zou (2020). Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity.Marine and Petroleum Geology.
+- 2. The seismic experiment

@@ -29,7 +29,7 @@ __Publication List__:
 - 1. Fracture mechanical properties of carbonate and evaporite caprocks in Sichuan Basin, China with implications for reservoir seal integrity.
     - Zonghu Liao, Mengni Wu, Xiaofeng Chen, Huayao Zou (2020).
     - Marine and Petroleum Geology.
-***    
+<br/>***    
 - 2. Characterizing damage zones of normal faults using seismic variance in the Wangxuzhuang oilfield, China.
     - Zonghu Liao, Luyao Hu, Xiaodi Huang, Brett M. Carpenter, Kurt J. Marfur, Saiyyna Vasileva, Yun Zhou (2020).
     - Interpretation.
@@ -45,7 +45,7 @@ __Publication List__:
 - 5. An experimentally-based friction law for high-velocity, long-displacement slip-pulse events during earthquakes.
     - Zonghu Liao, Ze’ev Reches (2019).
     - Earth and Planetary Science Letters.
-   ***    
+</ br>***    
 - 6. Analysis of fault damage-zones using 3D seismic coherence in the Anadarko Basin,Oklahoma. 
     - Zonghu Liao, Hui Liu, Brett M. Carpenter, Kurt J.Marfurt, Ze’ev Reches (2018).
     - AAPG Bulletin.   

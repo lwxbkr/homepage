@@ -45,7 +45,7 @@ __Publication List__:
 - 5. An experimentally-based friction law for high-velocity, long-displacement slip-pulse events during earthquakes.
     - Zonghu Liao, Ze’ev Reches (2019).
     - Earth and Planetary Science Letters.
-***    
+   ***    
 - 6. Analysis of fault damage-zones using 3D seismic coherence in the Anadarko Basin,Oklahoma. 
     - Zonghu Liao, Hui Liu, Brett M. Carpenter, Kurt J.Marfurt, Ze’ev Reches (2018).
     - AAPG Bulletin.   

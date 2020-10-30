@@ -8,7 +8,7 @@ date = 2016-04-20
 
 title = "Selected publications"
 #subtitle = "<a href='../../publication/'>Here</a> is a list of all of our publications"
-subtitle = "[List of all publications >>](../publicationlist/lab_manager)"
+subtitle = "[List of all publications >>](../publicationlist/publicationlist)"
 
 # Order that this section will appear in.
 weight = 4

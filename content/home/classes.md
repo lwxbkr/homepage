@@ -18,7 +18,7 @@ weight = 11
 [[member]]
     id = "Seismic Interpretation"
     image = "classes1.png"
-    description = "[Seismic Interpretation(2020 Fall)](/classes/lab_manager) <br/>Seismic Interpretation(2019 Fall) <br/>Seismic Interpretation(2018 Fall) <br/>Seismic Interpretation(2017 Fall) <br/>"
+    description = "[Seismic Interpretation(2020 Fall)](/classes/classeslist) <br/>Seismic Interpretation(2019 Fall) <br/>Seismic Interpretation(2018 Fall) <br/>Seismic Interpretation(2017 Fall) <br/>"
 [[member]]
     id = "Structural Geology"
 	image = "classes2.png"

@@ -104,7 +104,7 @@ weight = 7
 	id = "Yuval Boneh"
 	image = "yuval_boneh2.png"
 	position = "Ben-Gurion University of the Negev"
-	link = "https://in.bgu.ac.il/en/Pages/Yuval-Boneh.aspx"
+	link = "https://www.boneh-rock-deformation.com/"
 	show = true
 
 [[collaborator]]

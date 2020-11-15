@@ -50,24 +50,27 @@ __Publication List__:
     - Zonghu Liao, Hui Liu, Brett M. Carpenter, Kurt J.Marfurt, Ze’ev Reches (2018).
     - AAPG Bulletin.   
 <br/>    
-#[1]Zonghu Liao,Hui Liu,Zheng Jiang,Kurt J. Marfurt,Ze’ev Reches. Fault damage zone at subsurface: A case study using 3D seismic attributes and a clay model analog for the Anadarko Basin, Oklahoma[J]. Zonghu Liao;Hui Liu;Zheng Jiang;Kurt J. Marfurt;Ze’ev Reches,2017,5(2). 
 - 7. Fault damage zone at subsurface: A case study using 3D seismic attributes and a clay model analog for the Anadarko Basin, Oklahoma.
     - Zonghu Liao,Hui Liu,Zheng Jiang,Kurt J. Marfurt,Ze’ev Reches (2017).
     - Interpretation.
-    
+<br/>    
 - 8. Fault strength evolution during high velocity friction experiments with slip-pulse and constant-velocity loading.
     - Zonghu Liao, Jefferson C. Chang, Ze’ev Reches (2014).
     - Interpretation.    
+<br/>    
 - 9. Modeling Dynamic-Weakening and Dynamic-Strengthening of Granite in High-Velocity Slip Experiments.
     - Zonghu Liao, Ze’ev Reches (2012).
     - Intech.
+<br/>    
 - 10. Evaluation of TRIGRS (transient rainfall infiltration and grid-based regional slope-stability analysis)’s predictive skill for hurricane-triggered landslides: a case study in Macon County, North Carolina.
     - Zonghu Liao, Yang Hong, Dalia Kirschbaum, Robert F. Adler, Jonathan J. Gourley, Rick Wooten. (2011)
-    - Natural Hazards.    
+    - Natural Hazards. 
+<br/>       
 - 11. Prototyping an experimental early warning system for rainfall-induced landslides in Indonesia using satellite remote sensing and geospatial datasets.
     - Zonghu Liao, Yang Hong, Jun Wang, Hiroshi Fukuoka, Kyoji Sassa, Dwikorita Karnawati, Faisal Fathani. (2010)
     - Landslides.  
+<br/>    
 - 12. Assessment of shallow landslides from Hurricane Mitch in central America using a physically based model.
     - Zonghu Liao, Yang Hong, Dalia Kirschbaum, Chun Liu. (2010)
     - Environmental Earth Sciences.      
-
+<br/> 
